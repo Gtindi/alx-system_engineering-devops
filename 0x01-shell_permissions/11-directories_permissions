@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+rwx,gu+rx dir
+chmod a+x *
