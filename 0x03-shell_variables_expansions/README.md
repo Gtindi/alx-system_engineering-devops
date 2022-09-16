@@ -2,7 +2,7 @@
 
 | TaskNo   | Title | Status | Solution  | Explanation |
 |-----|--------------------|-----------------------------------------------|-------|----------|
-| 1 | <p>0-alias</p> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/> | <a href=""> View code </a> |<p> This script creates an alias.<br/> Name: ls<br/> Values: rm * </p>
+| 1 | <p>0-alias</p> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/> | <a href=""> View code </a> |<p> This script creates an alias. Name: ls Values: rm * </p>
   |
 | 2 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Binary_Search/Binary_search">Binary Search</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/>  | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/Binary_search/solution.py">View code</a> |
 | 3 | <a href="https://github.com/Gtindi/myLeetcodeSolutions/tree/main/Binary_Search/First_bad_version">First Bad Version</a> | <img src="https://www.pngmart.com/files/3/Green-Tick-PNG-Picture.png" width="25" height="20"/> | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/First_bad_version/solution.py">View code</a> |
