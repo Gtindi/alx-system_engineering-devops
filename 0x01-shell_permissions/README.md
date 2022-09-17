@@ -2,4 +2,17 @@
 
 | TaskNo | Title | Explanation | Solution |
 |--------|--------|--------|--------|
-| 1 | csk
+| 0 | 0-iam_betty | The script switches the current user to the user betty. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/0-iam_betty"> View Code </a> |
+| 1 | 1-who_am_i | Prints the effective username of the current user. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/1-who_am_i"> View Code </a> |
+| 2 | 2-groups | Prints all the groups the current user is part of. | <a href="https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/2-groups"> View Code </a> |
+| 3 | 3-new_owner | Changes the owner of the file hello to the user betty. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/3-new_owner"> View Code </a> |
+| 4 | 4-empty | Creates an empty file called hello. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/4-empty"> View Code </a> |
+| 5 | 5-execute | Adds execute permission to the owner of the file hello | <a href="https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/5-execute"> View Code </a> |
+| 6 | 6-multiple_permissions | Adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/6-multiple_permissions"> View Code </a> |
+| 7 | 7-everybody | Adds execution permission to the owner, the group owner and the other users, to the file hello. | <a href="https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/7-everybody"> View Code </a> |
+| 8 | 8-James_Bond | Write a script that sets the permission to the file hello as follows: <ul><li>Owner: no permission at all.</li> <li>Group: no permission at all.</li> <li>Other users: all the permissions.</li> </ul> | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/8-James_Bond"> View Code </a> |
+| 9 | 9-John_Doe | Write a script that sets the mode of the file hello to this:<ul><li> -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello </li></ul> | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/9-John_Doe"> View Code </a> |
+| 10 | 10-mirror_permissions | Sets the mode of the file hello the same as olleh’s mode. <ul><li>The file hello will be in the working directory.</li> <li>The file olleh will be in the working directory.</li> </ul> | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/10-mirror_permissions"> View Code <a> |
+| 11 | 11-directories_permissions | Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/11-directories_permissions"> View Code </a> |
+| 12 | 12-directory_permissions | Creates a directory called my_dir with permissions 751 in the working directory. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/12-directory_permissions"> View Code </a> |
+| 13 | 13-change_group | Changes the group owner to school for the file hello | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/13-change_group"> View Code </a> |
