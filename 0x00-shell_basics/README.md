@@ -21,4 +21,4 @@
 | 16 | 101-clean_emacs | This will delete all files ending with ~ | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x00-shell_basics/101-clean_emacs"> View Code |
 | 17 | 102-tree | This will create the following directories: welcome/, welcome/to, welcome/to/school | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x00-shell_basics/102-tree"> View Code </a> |
 | 18 | 103-commas | This will list all files including hidden files in current directory separated with comma. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x00-shell_basics/103-commas"> View Code </a> |
-| 19 | school.mgc | this together with file command detects school files | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x00-shell_basics/school"> View Code </a> |
+| 19 | school.mgc | This together with file command detects school files | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x00-shell_basics/school"> View Code </a> |
