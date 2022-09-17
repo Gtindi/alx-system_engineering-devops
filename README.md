@@ -1,7 +1,7 @@
 <h1> Shell, Variables Expansions </h1>
 
 | TaskNo   | Title |  Explanation | Solution  |
-|-----|--------------------|-----------------------------------------------|-------|
+|---------|--------------|------------|-------|
 | 0 | <p>0-alias</p> | This script creates an alias. <ul><li>Name: ls</li><li> Value: rm * </li></ul> | <a href="https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0-alias"> View code </a> | 
 | 1 | <p>1-hello_you</p> | This script will print 'hello user', where user is the current Linux user | <a href="https://github.com/Gtindi/alx-system_engineering-devops/blob/main/1-hello_you">View code</a> |
 | 2 | <p>2-path</p> | This script will add /action the PATH global variable. It is the last directory the shell looks into when looking for a program | <a href="">View code</a> |
