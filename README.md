@@ -4,7 +4,7 @@
 |-----|--------------------|-----------------------------------------------|-------|
 | 0 | <p>0-alias</p> | This script creates an alias. <ul><li>Name: ls</li><li> Value: rm * </li></ul> | <a href=""> View code </a> | 
 | 1 | <p>1-hello_you</p> | This script will print 'hello user', where user is the current Linux user | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/Binary_search/solution.py">View code</a> |
-| 2 | <p>2-path</p> | This script will add /action the PATH global variable. It is the last directory the shell looks into when looking for a program <ul><li>Name: ls</li><li> Values: rm * </li></ul> | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/Binary_search/solution.py">View code</a> |
+| 2 | <p>2-path</p> | This script will add /action the PATH global variable. It is the last directory the shell looks into when looking for a program | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/Binary_search/solution.py">View code</a> |
 | 3 | <p>3-paths</p> | This script will count the number of directories in the PATH | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Binary_Search/First_bad_version/solution.py">View code</a> |
 | 4 | <p>4-global_variables</p> | This script will list environment variables | <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Tree/Validate_binary_search_tree/solution.py">View code</a> |
 | 5 | <p>5-local_variables</p>| This script will list all local variables and environment variables, and functions |  <a href="https://github.com/Gtindi/myLeetcodeSolutions/blob/main/Tree/N-ary_Tree_preorder_traversal/solution.py"> View code </a> |
