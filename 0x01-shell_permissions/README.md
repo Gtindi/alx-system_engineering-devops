@@ -20,4 +20,3 @@
 | 15 | 101-symbolic_link_permissions | This will change the group and owner of _hello to vincent and staff. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/101-symbolic_link_permissions"> View Code </a> |
 | 16 | 102-if_only | This will change the owner of hello to betty only the owned user is guillaume | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/102-if_only"> View Code </a> |
 | 17 | 103-Star_Wars | This script will play the StarWars IV episode in the terminal. | <a href = "https://github.com/Gtindi/alx-system_engineering-devops/blob/main/0x01-shell_permissions/103-Star_Wars">View Code </a> |
-|
