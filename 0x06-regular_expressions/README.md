@@ -33,10 +33,11 @@ sed (Unix)
 vim (text editor)
 ## Learning Resources
 Ready to dive deeper into the world of regex? Here are some great resources to get you started:
-
-<a href="https://www.regular-expressions.info/">Regular-Expressions.info</a> - A comprehensive guide to regex syntax and usage.
-<a href="https://regex101.com/">Regex101</a> - An online tool for testing and debugging regex patterns.
-<a href="https://regexr.com/">Regexr</a> - Another online tool for testing and building regex patterns.
-<a href="https://docs.python.org/3/library/re.html">Python's re module documentation</a> - A guide to using regex in Python.
-<a href="https://www.oreilly.com/library/view/mastering-regular-expressions/9780596528126/">Mastering Regular Expressions</a> - A book that goes in-depth into regex syntax and usage.
+<ul>
+<li><a href="https://www.regular-expressions.info/">Regular-Expressions.info</a> - A comprehensive guide to regex syntax and usage.</li>
+<li><a href="https://regex101.com/">Regex101</a> - An online tool for testing and debugging regex patterns.</li>
+<li><a href="https://regexr.com/">Regexr</a> - Another online tool for testing and building regex patterns.</li>
+<li><a href="https://docs.python.org/3/library/re.html">Python's re module documentation</a> - A guide to using regex in Python.</li>
+<li><a href="https://www.oreilly.com/library/view/mastering-regular-expressions/9780596528126/">Mastering Regular Expressions</a> - A book that goes in-depth into regex syntax and usage.</li>
+</ul>
 Don't be afraid to experiment and practice with regex. With enough practice, you'll become a regex master and be able to tackle even the most complex text manipulation tasks with ease!
