@@ -15,23 +15,27 @@ Replace or remove specific characters or strings in a text file
 And much more!
 ## How to Use Regex
 To use regex, you need to understand the syntax and operators used to create patterns. Some common symbols used in regex include:
-
-. - Matches any single character except a newline character
-* - Matches zero or more occurrences of the previous character or group
-+ - Matches one or more occurrences of the previous character or group
-? - Matches zero or one occurrence of the previous character or group
-() - Defines a group of characters to match
-[] - Defines a range of characters to match
-\ - Escapes special characters or symbols
+<ul>
+<li> `.` - Matches any single character except a newline character</li>
+<li> `*` - Matches zero or more occurrences of the previous character or group</li>
+<li> `+` - Matches one or more occurrences of the previous character or group</li>
+<li> `?` - Matches zero or one occurrence of the previous character or group</li>
+<li> `()` - Defines a group of characters to match</li>
+<li> `[]` - Defines a range of characters to match</li>
+<li> `\` - Escapes special characters or symbols</li>
+<ul>
+<br/>
 Once you've created a regex pattern, you can use it with various programming languages, text editors, or command-line tools. Some examples of where regex is commonly used include:
-
-Python's re module
-Perl
-JavaScript
-grep (Unix)
-sed (Unix)
-vim (text editor)
-## Learning Resources
+<ul>
+<li> Python's re module </li>
+<li> Perl </li>
+<li> JavaScript </li>
+<li> grep (Unix) </li>
+<li> sed (Unix) </li>
+<li> vim (text editor) </li>
+<ul><br/>
+  
+## Learning Resources<br>
 Ready to dive deeper into the world of regex? Here are some great resources to get you started:
 <ul>
 <li><a href="https://www.regular-expressions.info/">Regular-Expressions.info</a> - A comprehensive guide to regex syntax and usage.</li>
@@ -39,5 +43,5 @@ Ready to dive deeper into the world of regex? Here are some great resources to g
 <li><a href="https://regexr.com/">Regexr</a> - Another online tool for testing and building regex patterns.</li>
 <li><a href="https://docs.python.org/3/library/re.html">Python's re module documentation</a> - A guide to using regex in Python.</li>
 <li><a href="https://www.oreilly.com/library/view/mastering-regular-expressions/9780596528126/">Mastering Regular Expressions</a> - A book that goes in-depth into regex syntax and usage.</li>
-</ul>
+</ul><br/>
 Don't be afraid to experiment and practice with regex. With enough practice, you'll become a regex master and be able to tackle even the most complex text manipulation tasks with ease!
