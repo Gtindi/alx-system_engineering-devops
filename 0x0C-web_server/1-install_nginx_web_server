@@ -7,15 +7,5 @@
 # * When querying Nginx at its root / with a GET request (requesting a page) using curl, it must #   return a page that contains the string Hello World!
 # * As an answer file, write a Bash script that configures a new Ubuntu machine to respect above #   requirements (this script will be run on the server itself)
 # * You can’t use systemctl for restarting nginx
-# update packages local DB
-sudo apt update
-# install nginx package
-sudo apt install nginx -y
-# allow port 80
-sudo ufw allow 'Nginx HTTP'
-# start nginx
-sudo service nginx start
-# set www directory owner
-sudo chown -R "$USER":"$USER" /var/www
-# set default response file
-echo 'Hello World!' > /var/www/html/index.html
+# update packages local DB &&  install nginx package && allow port 80 && start nginx && set www directory owner && set default response file
+sudo apt update && sudo apt install nginx -y && sudo ufw allow 'Nginx HTTP' && sudo service nginx start && sudo chown -R "$USER":"$USER" /var/www && echo 'Hello World!' > /var/www/html/index.html
