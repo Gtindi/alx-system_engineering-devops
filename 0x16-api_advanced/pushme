@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Functions for working with the Reddit API"
+git commit -m "Functions for working with Reddit API"
 git push
